@@ -1,0 +1,7 @@
+C:\Users\Linewbie\source\repos\OOP_TongHopCode\bin\Debug\OOP_TongHopCode.exe.config
+C:\Users\Linewbie\source\repos\OOP_TongHopCode\bin\Debug\OOP_TongHopCode.exe
+C:\Users\Linewbie\source\repos\OOP_TongHopCode\bin\Debug\OOP_TongHopCode.pdb
+C:\Users\Linewbie\source\repos\OOP_TongHopCode\obj\Debug\OOP_TongHopCode.csprojAssemblyReference.cache
+C:\Users\Linewbie\source\repos\OOP_TongHopCode\obj\Debug\OOP_TongHopCode.csproj.CoreCompileInputs.cache
+C:\Users\Linewbie\source\repos\OOP_TongHopCode\obj\Debug\OOP_TongHopCode.exe
+C:\Users\Linewbie\source\repos\OOP_TongHopCode\obj\Debug\OOP_TongHopCode.pdb
